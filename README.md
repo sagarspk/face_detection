@@ -5,7 +5,7 @@ Requirements:
 -numpy
 -argparser
 -imutils
--cv2
+-opencv-python
 
 
 
